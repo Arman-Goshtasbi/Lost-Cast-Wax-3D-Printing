@@ -33,16 +33,8 @@ Each design folder generally includes:
 - The **mold part** (`.SLDPRT` / `.STL`) — the 3D-printable wax mold
 - An **assembly file** (`.SLDASM`) showing actuator and mold together
 
-## Requirements
-
-- SolidWorks (to open `.SLDPRT` / `.SLDASM` files)
-- A 3D printer capable of printing wax or a sacrificial/dissolvable material (for the mold)
-- Standard soft-robotics casting materials (e.g., silicone) for the actuator body
 
 ## Status
 
 This is an active, ongoing project. Designs and documentation will continue to be added as the fabrication process is developed further.
 
-## Related work
-
-This process builds on techniques used in our other soft-robotics fabrication project, [Weld n'Cut](https://github.com/Arman-Goshtasbi/Weldn-cut), for automated textile-actuator fabrication.
